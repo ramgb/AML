@@ -1,0 +1,8 @@
+#load<maze>
+
+main():void
+{
+    cell i := (CPos);
+    print(get_Loc(i));
+}
+

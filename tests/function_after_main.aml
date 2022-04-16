@@ -1,0 +1,12 @@
+#load<maze>
+
+main():void
+{
+    func();
+}
+
+function func():void
+{
+    print(true);
+}
+

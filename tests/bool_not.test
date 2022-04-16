@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DESC="NOT op"
+OUT=$'true\nfalse'
+ERR=""
+

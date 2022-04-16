@@ -1,0 +1,10 @@
+#load<maze>
+
+main():void
+{
+/* this is
+ * a multiline
+ * comment
+ */
+    print(true);
+}

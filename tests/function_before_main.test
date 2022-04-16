@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DESC="function before main"
+OUT=""
+ERR='Fatal error: exception Failure("'"'main'"' must be after load")'
+COMPILE_ONLY=true

@@ -1,0 +1,7 @@
+#load<maze>
+
+main():void
+{
+    integer i := 5;
+    print(i);
+}

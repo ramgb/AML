@@ -1,0 +1,5 @@
+#!/bin/bash
+
+DESC="gte binop"
+OUT=$'false\ntrue\ntrue'
+ERR=""

@@ -1,0 +1,8 @@
+#load<maze>
+
+main():void
+{
+    print(true OR false);
+    print(true OR true);
+    print(false OR false);
+}

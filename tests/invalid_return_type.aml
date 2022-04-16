@@ -1,0 +1,10 @@
+#load<maze>
+
+main():void
+{
+}
+
+foo():int
+{
+    return 1;
+}

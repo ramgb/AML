@@ -1,0 +1,6 @@
+#load<maze>
+
+main():void
+{
+    Integer i;
+}

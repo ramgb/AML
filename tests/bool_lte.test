@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DESC="lte binop"
+OUT=$'true\ntrue\nfalse'
+ERR=""
+

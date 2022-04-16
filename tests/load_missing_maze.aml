@@ -1,0 +1,7 @@
+#load<bogus>
+
+main():void
+{
+    cell i := (CPos);
+    print(get_Loc(i));
+}

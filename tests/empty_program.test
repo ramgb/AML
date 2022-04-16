@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DESC="empty file"
+OUT=""
+ERR='Fatal error: exception Failure("hd")'
+COMPILE_ONLY=true

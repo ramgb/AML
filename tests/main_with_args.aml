@@ -1,0 +1,5 @@
+#load<maze>
+
+main(Integer x):void
+{
+}

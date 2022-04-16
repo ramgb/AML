@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DESC="OR binop"
+OUT=$'true\ntrue\nfalse'
+ERR=""
+

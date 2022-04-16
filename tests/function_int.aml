@@ -1,0 +1,11 @@
+#load<maze>
+
+main():void
+{
+    print(func());
+}
+
+function func():integer
+{
+    return 5;
+}
